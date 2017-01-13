@@ -760,6 +760,10 @@ header, section, footer {
     margin-bottom: 50px; }
 
 @media screen and (max-width: 1280px) {
+
+  .header-wrap {
+    position: relative;
+    background: url("../images/header_wrap_img.png") -80px 0, url("../images/header-wrap_bg.jpg");
   .sw-5 {
     background: #6b4487 url("../images/sw-5_bg.jpg") -180px 0 no-repeat;
     background-size: 619px 100%;

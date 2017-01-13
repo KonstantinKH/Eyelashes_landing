@@ -205,7 +205,7 @@ header, section, footer {
   position: relative;
   background: url("../images/header_wrap_img.png") -80px 0, url("../images/header-wrap_bg.jpg");
   background-repeat: no-repeat, no-repeat;
-  background-size: auto 100%, cover; }
+  background-size: auto 100%,cover; }
   .header-wrap .main-slider {
     width: 40%;
     float: left; }
